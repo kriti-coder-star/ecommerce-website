@@ -5,8 +5,8 @@ Currently includes **homepage, shop, blog, about, contact pages**, and a **cart 
 
 👉 **Live Demo (GitHub Pages):** [Click Here](https://kriti-coder-star.github.io/ecommerce-website/)  
 👉 **Clone Repo:**  
-
-`git clone https://github.com/kriti-coder-star/ecommerce-website.git`
+```bash
+git clone https://github.com/kriti-coder-star/ecommerce-website.git
 
 
 ✅ Features Implemented
