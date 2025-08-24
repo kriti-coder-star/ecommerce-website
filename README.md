@@ -9,7 +9,6 @@ Currently includes **homepage, shop, blog, about, contact pages**, and a **cart 
 git clone https://github.com/kriti-coder-star/ecommerce-website.git
 
 
-
 ✅ Features Implemented
 🏠 Homepage with modern responsive design
 🛍️ Shop page with product listing layout
