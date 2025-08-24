@@ -1,13 +1,10 @@
 # 🛒 E-commerce Website
 
 A fully responsive **E-commerce Website** built with **HTML, CSS, and JavaScript**.  
-Currently includes **homepage, shop, blog, about, contact pages**, and a **cart page UI (work in progress)**.  
+Currently includes **homepage, shop, blog, about, contact pages**, and a **cart page UI **.  
+
 
 👉 **Live Demo (GitHub Pages):** [Click Here](https://kriti-coder-star.github.io/ecommerce-website/)  
-👉 **Clone Repo:**  
-```sh
-git clone https://github.com/kriti-coder-star/ecommerce-website.git
-
 
 ✅ Features Implemented
 🏠 Homepage with modern responsive design
@@ -34,5 +31,13 @@ GitHub Pages – Deployment
 💳 Payment gateway integration
 📦 Admin dashboard to manage products
 🌐 Backend support (Node.js / Firebase / MongoDB)
+
+
+👉 **Clone Repo:**  
+```sh
+git clone https://github.com/kriti-coder-star/ecommerce-website.git
+
+
+
 
 
